@@ -7,4 +7,4 @@ col1, col2 = st.columns([3, 1])
 with col1:
     st.title("YOY Dashboard")
 with col2:
-    st.image("C:\\Users\\MaciejWach\\OneDrive - AFG Media Ltd\\Desktop\\streamlit\\logo.png", width=300)
+    st.image("logo.png", width=300)
